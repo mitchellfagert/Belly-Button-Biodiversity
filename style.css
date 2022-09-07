@@ -1,5 +1,11 @@
 .jumbo-image {
-    background-image: url("../Belly-Button-Biodiversity/images/science\ background.jpg");
+    background-image: url("./images/science_background.jpg");
     background-size: 100%  100%;
     text-align: center;
+    color: aliceblue;
+}
+
+.well {
+
+    color:dodgerblue
 }
